@@ -32,7 +32,7 @@ navigation:
     url: /
   - text: Docs
     url: /docs
-  - text: Examples
+  - text: Post
     url: /examples
 
 #projects:
