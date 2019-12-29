@@ -24,9 +24,8 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email: mail@sobolevn.me
-
+your_name: 고유성
+email: koys0818@naver.com
 navigation:
   - text: Home
     url: /
