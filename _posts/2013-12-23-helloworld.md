@@ -4,7 +4,7 @@ title: 객체 지향 프로그래밍
 date: 2019-12-29 09:28:23
 author: 고유성
 categories: Summary
-short_description: 객체 지향 프로그래밍에 대해 정리한 글
+short_description: 객체지향 프로그래밍에 대해 정리한 글
 image_preview: http://image.itdonga.com/files/2015/04/09/e5.jpg
 ---
 클래스
