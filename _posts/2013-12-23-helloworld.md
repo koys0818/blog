@@ -39,6 +39,7 @@ public class Animal {
 public class Animal {
       String name;
  }
+ ~~~
 와 같이 만들 수 있는데 이 객체 변수를 출력하려면 도트연산자(.)를
 사용하여야 한다.
 객체.객체변수
@@ -46,6 +47,7 @@ public class Animal {
 객체 변수 name를 출력 하려면
 cat.name
 과 같이 사용해야하고 이걸 사용하면
+~~~
 public class Animal {
    String name;
 
@@ -73,9 +75,11 @@ name를 선언했지만 아무런 값도 대입하지 않았기 때문에 null�
 어떤 값을 대입하면 어떤 리턴값을 돌려준다는 식의 메소드를 작성하는 것이
 나을 것이다.
 간단하게 예를 들어보면
+~~~
 public int sum(int a, int b) {
     return a+b;
 }
+~~~
 를 들 수  있는데 위 메소드의 의미는
 "sum이라는 메소드는 2개의 int 자료형 입력값을 받고 2개를 더한 int형의 리턴값이 나온다."
 이다.
@@ -99,9 +103,11 @@ return 리턴값;  // 리턴자료형이 void인 경우에는 return은 필요�
 
 
 2번인 입력값도 출력값도 없는 메소드는 간단하게 예를 들면
+~~~
 public void say() (
    System.out.println("Hello")
 }
+~~~
 
 
 상속
@@ -113,6 +119,7 @@ public void say() (
 클래스 상속을 위해서는 extends라는 키워드를 사용하게 되는데
 자식 클래스 extends 부모 클래스의 형태이다.
 예를 들어 Animal 클래스를 상속하는 Dog 클래스를 만들려면
+~~~
 Animal.java
 public class Animal {
     String name;
@@ -121,13 +128,16 @@ public class Animal {
         this.name = name;
     }
 }
+~~~
 
 
 를 만든 후
+~~~
 Dog.java
 public class Dog extends Animal {
 
 }
+~~~
 
 
 extends를 사용하면 Dog 클래스는 Animal 클래스를 상속하게 된다
