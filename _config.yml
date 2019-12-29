@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: jekyll-theme-hackcss
+title: 고유성의 블로그
 description: > # this means to ignore newlines until "baseurl:"
   A minimalistic theme for Jekyll, based on hack.css
 repository: https://github.com/koys0818/blog.git
@@ -25,7 +25,7 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: wemake.services
-email: koys0818@naver.com
+email: mail@sobolevn.me
 
 navigation:
   - text: Home
@@ -53,7 +53,7 @@ projects:
 
 social:
   - service: github
-    username: sobolevn
+    username: 고유성
     link: https://github.com/koys0818
 #  - service: twitter
 #    username: sobolevn
