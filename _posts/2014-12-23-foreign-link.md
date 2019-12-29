@@ -8,6 +8,9 @@ short_description: 블랙잭 게임을 자바로 작성하기
 image_preview: https://kangwonland.high1.com/site/casino/images/contents/cst_1764_img.jpg
 #external_url: https://habrahabr.ru/post/278937/
 ---
+블랙잭의 규칙은 딜러와 카드를 한장씩 받아 21에 가까운 수를 만드는 사람이 이기며 21을 초과하면 지는 것이니
+while문을 써서 21을 초과하면 결과를 출력하고 종료하고 만들었고 받는 카드의 값은 랜덤값으로 출력되게 해놨고
+처음에 돈을 1000원으로 세팅해 매판 돈을 배팅하고 돈이 0이 되면 프로그램을 종료하게 해놨고 이기면 배팅한 금액의 2배를 받게 세팅했다
 ~~~
 package practice;
 import java.util.Random;
