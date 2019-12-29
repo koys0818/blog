@@ -35,6 +35,7 @@ public class Animal {
 추가할 수 있다.
 예들들어 나이나 몸무게등의 int 변수나 이름과 같은 String 변수등을 추가할 수 있고 이렇게 클래스에 선언된 변수를 객체 변수라고 한다.
 예를들어 
+~~~
 public class Animal {
       String name;
  }
@@ -54,7 +55,7 @@ public class Animal {
      System.out.println(cat.name);
    }
 }
-
+~~~
 
 라고 작성할 수 있는데 이대로 실행해보면 null이라고 결과가 출력된다
 null이라는 것은 값이 할당되어 있지 않다는건데 객체 변수로
@@ -110,8 +111,7 @@ public void say() (
 상속은 말 그대로 자식이 부모로부터 무언가를 물려받는 것이다.
 자바의 상속도 똑같이 부모 클래스로부터 자식 클래스가 무엇가를 상속받는 것이다.
 클래스 상속을 위해서는 extends라는 키워드를 사용하게 되는데
-자식 클래스 extends 부모 클래스
-의 형태이다.
+자식 클래스 extends 부모 클래스의 형태이다.
 예를 들어 Animal 클래스를 상속하는 Dog 클래스를 만들려면
 Animal.java
 public class Animal {
