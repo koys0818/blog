@@ -8,6 +8,7 @@ short_description: 블랙잭 게임을 자바로 작성하기
 image_preview: https://kangwonland.high1.com/site/casino/images/contents/cst_1764_img.jpg
 #external_url: https://habrahabr.ru/post/278937/
 ---
+~~~
 package practice;
 import java.util.Random;
 import java.util.Scanner;
@@ -96,3 +97,4 @@ System.out.println("게임이 종료되었습니다\n잔액은 "+money+"입니�
 // TODO Auto-generated method stub
 }
 }
+~~~
