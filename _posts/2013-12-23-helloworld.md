@@ -8,6 +8,7 @@ short_description: 자바 기초에 대해 정리한 글
 image_preview: http://image.itdonga.com/files/2015/04/09/e5.jpg
 ---
 클래스
+-------
 
 클래스는 간단하게 유사한 특징을 가진 객체들을 모아둔 집합이다.
 예를들면 고양이나 개나 사슴과 같은 여러 동물들은 동물이라는 특성으로
