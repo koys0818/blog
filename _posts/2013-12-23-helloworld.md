@@ -2,9 +2,10 @@
 layout: post
 title: 객체 지향 프로그래밍
 date: 2019-12-29 09:28:23
+author: 고유성
 categories: Summary
 short_description: 객체 지향 프로그래밍에 대해 정리한 글
-#image_preview: https://avatars2.githubusercontent.com/u/4660275?v=3&s=460
+image_preview: https://avatars2.githubusercontent.com/u/4660275?v=3&s=460
 ---
 클래스
 
