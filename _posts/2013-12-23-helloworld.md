@@ -6,6 +6,8 @@ categories: Summary
 short_description: 객체 지향 프로그래밍에 대해 정리한 글
 #image_preview: https://avatars2.githubusercontent.com/u/4660275?v=3&s=460
 ---
+클래스
+
 클래스는 간단하게 유사한 특징을 가진 객체들을 모아둔 집합이다.
 예를들면 고양이나 개나 사슴과 같은 여러 동물들은 동물이라는 특성으로
 모을 수가 있다.
