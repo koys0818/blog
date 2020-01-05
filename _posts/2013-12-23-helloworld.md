@@ -14,6 +14,7 @@ image_preview: http://image.itdonga.com/files/2015/04/09/e5.jpg
 예를들면 고양이나 개나 사슴과 같은 여러 동물들은 동물이라는 특성으로
 모을 수가 있다.
 그리고 간단하게 그것을 작성해보면
+~~~
 public class Animal {
 
 
@@ -22,6 +23,7 @@ public class Animal {
       Animal dog = new Animal();
   }
 }
+~~~
 로 작성할 수 있다.
 여기서 new는 객체를 생성할 때 사용하는 연사자이다.
 이렇게 쓰면 Animal 클래스의 인스턴스(객체)인 cat과 dog가 생성된다.
