@@ -22,22 +22,22 @@ pwd (print working directory)
 절대 경로와 상대 경로로 이동 가능하다.
 
 
-ls (list)
+**ls (list)**
 디렉토리 목록 확인
 
-cp (copy)
+**cp (copy)**
 파일 혹은 디렉토리를 복사
 
 디렉토리를 복사할때는 -r 옵션을 주어야함
 
-mv (move)
+**mv (move)**
 파일 혹은 디렉토리 이동
 
 실제로 원하는 위치로 이동할때도 사용하지만, 이름을 변경하는 용도로도 사용한다.
 
 cp와는 달리 디렉토리를 이동할때도 별다른 옵션이 필요 없다.
 
-mkdir (make directory)
+**mkdir (make directory)**
 디렉토리 생성
 
 -p 옵션을 주면 하위 디렉토리까지 한 번에 생성 가능
@@ -45,7 +45,7 @@ mkdir (make directory)
 아래 예제중 ls -R 옵션은 디렉토리의 하위목록까지 전부 보여주는 옵션이다.
 
 
-rm (remove)
+**rm (remove)**
 파일이나 디렉토리를 삭제
 
 디렉토리를 삭제할때는 r 옵션을 주어야 한다.
