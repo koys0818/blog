@@ -19,11 +19,13 @@ permalink: posts
     <div class="media t-hackcss-media">
 
       {% if nth == 0 %}
-      <div class="t-hackcss-media-shift media-left">
-        <img class="t-hackcss-media-image"
-             src="{{ post.image_preview }}" alt="{{ post.title }}"
-             title="{{ post.title }}" />
-      </div>
+        {% if post.image_preview %} 
+          <div class="t-hackcss-media-shift media-left">
+            <img class="t-hackcss-media-image"
+                src="{{ post.image_preview }}" alt="{{ post.title }}"
+                title="{{ post.title }}" />
+          </div>
+        {% else %}
       {% endif %}
 
       <div class="media-body">
