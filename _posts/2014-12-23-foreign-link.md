@@ -3,7 +3,7 @@ layout: post
 title: 자바로 블랙잭 프로그램 작성하기
 date: 2019-12-31 13:18:23
 author: 고유성
-categories: Summary
+categories: posts
 short_description: 블랙잭 게임을 자바로 작성하기
 image_preview: https://kangwonland.high1.com/site/casino/images/contents/cst_1764_img.jpg
 #external_url: https://habrahabr.ru/post/278937/
