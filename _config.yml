@@ -29,7 +29,7 @@ email: koys0818@naver.com
 navigation:
   - text: Home
     url: /
-  - text: Docs
+  #- text: Docs
     url: /docs
   - text: Post
     url: /examples
