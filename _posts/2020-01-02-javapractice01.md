@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 자바 연습 01
-date: 2019-12-31 13:18:23
+date: 2020-01-02 17:21:29
 author: 고유성
 categories: summary
 short_description: 자바 예제 문제 풀기
