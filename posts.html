@@ -19,7 +19,7 @@ permalink: posts
     <div class="media t-hackcss-media">
 
       {% if nth == 0 %}
-        {% if post.image_preview != '' %} 
+        {% if post.image_preview %}
           <div class="t-hackcss-media-shift media-left">
             <img class="t-hackcss-media-image"
                 src="{{ post.image_preview }}" alt="{{ post.title }}"

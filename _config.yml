@@ -10,8 +10,8 @@ title: 고유성의 블로그
 description: > # this means to ignore newlines until "baseurl:"
   코딩에 대해 공부하며 정리하는 블로그입니다
 repository: https://github.com/koys0818/blog.git
-baseurl: /blog  # the subpath of your site, e.g. /blog
-url: https://koys0818.github.io/blog/  # the base hostname & protocol for your site
+baseurl: /  # the subpath of your site, e.g. /blog
+url: https://koys0818.github.io/  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
