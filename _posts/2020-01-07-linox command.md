@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 리녹스 명령어 정리
-date: 2020-01-02 17:21:29
+date: 2020-01-07 14:41:19
 author: 고유성
 categories: summary
 short_description: 리녹스 명령어 공부하며 정리하기
