@@ -30,9 +30,9 @@ navigation:
   - text: Home
     url: /
   #- text: Docs
-    url: /docs
+  #  url: /docs
   - text: Post
-    url: /examples
+    url: /posts
 
 #projects:
  # - name: git-secret
