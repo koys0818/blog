@@ -5,7 +5,7 @@ date: 2020-01-02 17:21:29
 author: 고유성
 categories: summary
 short_description: 자바 예제 문제 풀기
-#image_preview: https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png
+image_preview: http://image.itdonga.com/files/2015/04/09/e5.jpg
 #external_url: https://habrahabr.ru/post/278937/
 ---
 pro46
