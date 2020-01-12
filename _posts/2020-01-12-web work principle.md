@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 웹페이지 작동 원리
-date: 2020-01-12 9:126:48
+date: 2020-01-12 9:26:48
 author: 고유성
 categories: summary
 short_description: 웹페이지가 작동하는 원리를 쉽게 정리
